@@ -1,4 +1,4 @@
-While in Lab_1 Folder:
+To run project: 
 
 1) Subscribe to jdk using “subscribe” command.
 
